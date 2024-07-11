@@ -1,0 +1,11 @@
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\bin\Debug\net8.0\Entity_Layer.deps.json
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\bin\Debug\net8.0\Entity_Layer.dll
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\bin\Debug\net8.0\Entity_Layer.pdb
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.AssemblyInfoInputs.cache
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.AssemblyInfo.cs
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.dll
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\refint\Entity_Layer.dll
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\Entity_Layer.pdb
+C:\Users\eren\source\repos\MusicAppBackend\Entity_Layer\obj\Debug\net8.0\ref\Entity_Layer.dll
